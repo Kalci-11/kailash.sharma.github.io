@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: black;
+  --sub-heading: 400;
+  --content: 200;
+  --menu-font-size: 0.8em;
+  --heading: 4em;
+}
+
+body {
+  height: 100vh;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  height: 100vh;
+  font-family: 'Poppins';
+  overflow: hidden;
+}
+
+.intro .name {
+  width: 100%;
+  font-size: 4em;
+  font-stretch: ultra-expanded;
+}
+/*# sourceMappingURL=main.css.map */
