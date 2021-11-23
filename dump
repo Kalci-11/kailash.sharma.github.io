@@ -5,3 +5,10 @@
         <li><a href="default.asp">Skills</a></li>
     </ul>
 </nav>
+
+        <div class="info">
+            <p>Product Manager @ TomTom</p>
+            <p>E-Mail: kailash.sharma.nl@gmail.com</p>
+            <p>LinkedIn: Kailash Sharma</p>
+            <p>Total Experience - 12 Years</p>
+        </div>
